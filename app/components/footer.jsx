@@ -1,7 +1,5 @@
 // @flow strict
 import Link from 'next/link';
-import { CgGitFork } from "react-icons/cg";
-import { IoStar } from "react-icons/io5";
 
 function Footer() {
   return (
@@ -12,7 +10,7 @@ function Footer() {
         </div>
         <div className="flex flex-col md:flex-row items-center justify-between">
           <p className="text-sm">
-            © Developer Portfolio by <Link target="_blank" href="www.linkedin.com/in/bryan-turner-700953325" className="text-[#16f2b3]">Bryan Turner</Link>
+            © Developer Portfolio by <Link target="_blank" href="www.linkedin.com/in/giova-gameplay-700953325" className="text-[#16f2b3]">Giovanni A.</Link>
           </p>
         </div>
       </div>

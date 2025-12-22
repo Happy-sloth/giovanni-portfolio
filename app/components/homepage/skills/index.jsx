@@ -30,7 +30,6 @@ function Skills() {
         <Marquee
           gradient={false}
           speed={80}
-          pauseOnHover={true}
           pauseOnClick={true}
           delay={0}
           play={true}
@@ -68,11 +67,10 @@ function Skills() {
         <Marquee
           gradient={false}
           speed={80}
-          pauseOnHover={true}
           pauseOnClick={true}
           delay={0}
           play={true}
-          direction="left"
+          direction="right"
         >
           {skillsData2.map((skill, id) => (
             <div className="w-36 min-w-fit h-fit flex flex-col items-center justify-center transition-all duration-500 m-3 sm:m-5 rounded-lg group relative hover:scale-[1.15] cursor-pointer"

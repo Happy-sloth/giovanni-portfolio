@@ -1,11 +1,11 @@
 export const contactsData = {
-    email: 'sharpninjacoder@gmail.com',
-    phone: '+1 602 399 7416 ',
-    address: '1057 N Saguaro ST, Chandler, Arizona, United States',
-    github: 'https://github.com/Sharpninjacoder',
+    email: 'giovagameplay151@gmail.com',
+    phone: '+54 3885773242',
+    address: 'Cnel arias 1126 San Salvador de Jujuy, JUJUY 4600 Argentina',
+    github: 'https://github.com/Happy-sloth',
     facebook: '',
-    linkedIn: 'https://www.linkedin.com/in/bryan-turner-700953325/',
+    linkedIn: 'https://www.linkedin.com/in/giova-gameplay-700953325/',
     twitter: '',
     stackOverflow: '',
-    devUsername: "Bryan Turner"
+    devUsername: "Giovanni A."
 }
