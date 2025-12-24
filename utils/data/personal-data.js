@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Giovanni Actis Alesina",
-  profile: '/profile.png',
+  profile: '/image/profile.png',
   designation: "Software Engineer",
   description: "My name is Giovanni Actis Alesina. I am a highly skilled and experienced software developer with a deep understanding of software design, development, and maintenance. I am proficient in multiple programming languages and technologies, and I have a proven track record of delivering high-quality software solutions. I am a strong team player and I am always eager to learn new things. Ultimately, the goal is to create software that has a positive impact on the world, solving problems, increasing efficiency, and making people's lives easier. I am confident that I can make a significant contribution to your organization.",
   email: 'giovagameplay151@gmail.com',
